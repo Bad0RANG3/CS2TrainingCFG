@@ -1,4 +1,4 @@
-# CS2Training
+# CS2PraticeCFG
 精心制作的config文件，只为为你更好的跑图
 
 <del>已更新恢复原竞技跑图房</del>Bug太多废除方案
