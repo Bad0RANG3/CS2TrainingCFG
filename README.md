@@ -1,7 +1,5 @@
 # CS2PraticeCFG
 精心制作的config文件，只为为你更好的跑图
-
-<del>已更新恢复原竞技跑图房</del>Bug太多废除方案
 ---------------------------------------------------
 
 功能介绍：
@@ -27,3 +25,10 @@
 -------------------------------------------
   
 那介绍完了，自行下载使用吧！
+
+cs2_machine_convars       cs2_user_convars_0_slot0        cs2_user_keys_0_slot0      cs2_video
+上面四个放到Steam根目录下的userdata里面的好友码（你的）里面的730里面的loacl里面的cfg文件夹内
+
+autoexec PT  REC ffmpeg放到CS2存CFG的目录里面
+
+PT是跑图CFG  REC是HLAE录制用的配置文件会改按键 ffmpeg是配置HLAE用ffmpeg内录用的cfg exec REC会自动exec ffmpeg
